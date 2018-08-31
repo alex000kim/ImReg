@@ -8,7 +8,7 @@ Original image
 
 Shifted image (5.3p in X, 6.7p in Y)
 
-![alt image](image_shifted .jpg "Original image")
+![alt image](image_shifted.jpg "Shifted image")
 
 
 ```python
