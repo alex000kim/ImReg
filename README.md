@@ -10,6 +10,8 @@ Zhang, Boyang, et al. "A mutual information based sub-pixel registration method 
 - `poc_reg.py` Phase-Only Correlation (POC)
 
 Nagashima, Sei, et al. "A subpixel image matching technique using phase-only correlation." Intelligent Signal Processing and Communications, 2006. ISPACS'06. International Symposium on. IEEE, 2006.
+
+
 --------------------
 
 Original image
