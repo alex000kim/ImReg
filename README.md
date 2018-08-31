@@ -1,4 +1,4 @@
 # ImReg
 Image Registration Algorithms
 
-![alt text](image_original.jpg "Original image")
+![alt image](image_original.jpg "Original image")
