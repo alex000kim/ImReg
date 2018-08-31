@@ -2,10 +2,14 @@
 Image Registration Algorithms
 
 Original image
+
 ![alt image](image_original.jpg "Original image")
 
+
 Shifted image (5.3p in X, 6.7p in Y)
-![alt image](image_original.jpg "Original image")
+
+![alt image](image_shifted .jpg "Original image")
+
 
 ```python
 from mi_reg import main_mi_reg
