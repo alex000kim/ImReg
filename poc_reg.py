@@ -5,13 +5,8 @@ from numpy import pi, sin
 from scipy.optimize import leastsq
 
 """
-Phase Only Correlation algorithm based on:
-Nagashima, S., Aoki, T., Higuchi, T., & Kobayashi, K. (2006, December).
-A subpixel image matching technique using phase-only correlation.
-In Intelligent Signal Processing and Communications, 2006.
-ISPACS'06. International Symposium on (pp. 701-704). IEEE.
-
-*Names of variables are consistent with those in the paper*
+"High-AccuracySubpixelImageRegistrationBasedonPhase-OnlyCorrelation"
+http://www.aoki.ecei.tohoku.ac.jp/research/docs/e86-a_8_1925.pdf
 """
 
 FITTING_SHAPE = (8, 8)
