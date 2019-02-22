@@ -12,8 +12,8 @@ Zhang, Boyang, et al. "A mutual information based sub-pixel registration method 
 Nagashima, Sei, et al. "A subpixel image matching technique using phase-only correlation." Intelligent Signal Processing and Communications, 2006. ISPACS'06. International Symposium on. IEEE, 2006.
 
 Rule of thumb:
-- `MI` is slow, but better at registering multi-modal images
-- `POC` is fast, but might have issues if images have significant differences (i.e. X-ray vs CT scan vs MRI)
+- `MI` is slow, but better at registering multi-modal images (i.e. X-ray vs CT scan vs MRI)
+- `POC` is fast, but might have issues if images have significant differences 
 
 --------------------
 
